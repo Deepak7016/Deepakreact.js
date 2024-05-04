@@ -1,5 +1,5 @@
 import Header from "./component/Header";
-import Compo from "./component/Content";
+import Content from "./component/Content";
 import Footer from "./component/Footer";
 
 
@@ -13,7 +13,7 @@ function App() {
       <Header/>
       <br></br>
   
-      <Compo/>
+      <Content/>
      <br></br>
      
      <Footer/>

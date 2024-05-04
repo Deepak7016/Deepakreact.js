@@ -1,6 +1,6 @@
 function Header(){
     return (
-        <div>
+        <div style={{backgroundColor:'grey', border:'1px solid blue'}}>
         <ol>
             <li>Menu</li>
             <li>Service</li>
